@@ -79,5 +79,5 @@ transform: translateX(-50%);
     content: 'mins';
 }
 #seconds::after{
-    content: 'sec';
+    content: 'secs';
 }
