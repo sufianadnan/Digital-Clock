@@ -16,7 +16,7 @@ This digital clock project is a web application that displays the current time i
 
 ## Demo
 
-You can see the digital clock in action by visiting the following link: [Demo](https://sufianadnan.github.io/Digital-Clock) (Replace with the actual URL of your deployed project).
+You can see the digital clock in action by visiting the following link: [Demo](https://sufianadnan.github.io/Digital-Clock)
 
 ## Features
 
