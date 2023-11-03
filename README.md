@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+   git clone https://github.com/sufianadnan/Digital-Clock
 
 2. Open the project folder.
 
